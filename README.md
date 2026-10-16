@@ -1,4 +1,4 @@
-# OutGuessed
+# OutGuessed 
 
 OutGuessed é um jogo multiplayer de perguntas, dicas e estratégia em tabuleiro. Em cada partida, os jogadores escolhem uma sala e um tema, usam as pistas disponíveis para encontrar a resposta e avançam pelo tabuleiro. Quanto menos dicas forem necessárias para acertar, maior poderá ser o avanço; vence quem alcançar primeiro o final do percurso.
 
